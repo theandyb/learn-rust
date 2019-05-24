@@ -1,7 +1,7 @@
 [package]
 name = "sample_distributions"
 version = "0.1.0"
-authors = ["Andy Beck <andy@umich.edu>"]
+authors = ["Andy Beck <andy put my lname first@umich.edu>"]
 edition = "2018"
 
 [dependencies]
