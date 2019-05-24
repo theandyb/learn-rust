@@ -1,0 +1,7 @@
+[package]
+name = "hello_cargo"
+version = "0.1.0"
+authors = ["Andy Beck <beckandy_is_my_uniqname@umich.edu>"]
+edition = "2018"
+
+[dependencies]

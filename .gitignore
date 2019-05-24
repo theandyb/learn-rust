@@ -1,5 +1,3 @@
-*main
-*target/
 # Ignore all
 *
 
@@ -17,3 +15,8 @@
 
 # Ignore `bin` dir
 bin/
+
+*lock
+
+*/target
+*/main
