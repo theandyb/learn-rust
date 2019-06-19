@@ -7,13 +7,15 @@ fn prime_factorization (x: i64){
         y = y/i;
         print!("2 times ");
     }
+    
+    i = 3;
 
     while i <= (x2.sqrt().floor() as i64) {
         while y % i == 0 {
             y = y/i;
             print!("{} times ", i);
         }
-        i+=1;
+        i+=2;
     }
     println!("one!");
 }
